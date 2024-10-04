@@ -16,8 +16,8 @@ if 5 > 2:
     print("five greater than two")'''
 
 '''x=4
-x="thomas"                #here thomas will get printed as thomas will over 
-print(x)'''               #right the firts value given to xprint(x)
+x="thomas"                
+print(x)'''               
 
 '''x="thomas"
 x=5
