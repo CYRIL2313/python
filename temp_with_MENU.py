@@ -8,11 +8,11 @@ while True:
     print("3.\tExit")
     choice=int(input("Enter your choice"))
     if choice == 1:
-       tem = int(input("Enter the  in degree per celsius"))
+       tem = float(input("Enter the  in degree per celsius"))
        C=(9/5*tem)+32
        print(tem,"celsius is",C,"fahrenheit")
     elif choice == 2:
-       tem = int(input("Enter the temperature in fahrenheit"))
+       tem = float(input("Enter the temperature in fahrenheit"))
        F=5/9*(tem-32)
        print(tem,"fahernheit is",F,"celsius")
     elif choice == 3:
