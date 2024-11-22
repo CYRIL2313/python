@@ -1,7 +1,3 @@
-from PIL.ImImagePlugin import number
-from babel.numbers import format_number
-from uaclient.system import should_reboot
-
 # AUTHER:CYRIL
 # DATE:22/11/2024
 # DESCRIPTION:Input two list from the user.Merge these list into a third list such that
